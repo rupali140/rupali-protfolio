@@ -1,39 +1,31 @@
-# Expense Tracker
+# Rupali Jat — Developer Portfolio
 
-A simple web app to track daily expenses — add, categorize, and review your spending to keep a clear picture of where your money goes.
+My personal developer portfolio website — built to showcase my skills, education, and projects as I work toward becoming a Java Full Stack Developer.
 
-🔗 **Live Demo:** https://rupali140.github.io/expense-tracker/
+## About
+This is a single-page portfolio site with a playful, animated design — floating background blobs, an interactive "SQL console" hero section, and tilting project cards.
 
-## Features
-- Add new expenses with amount, category, and date
-- View a running list of all recorded expenses
-- See total spending at a glance
-- Delete/edit entries as needed
-- Clean, responsive UI that works on desktop and mobile
+## Sections
+- **Hero** — introduction with photo and a quick greeting
+- **Projects** — featured work, currently showcasing my Expense Tracker
+- **Skills** — languages, frameworks, and tools I work with
+- **Education** — MCA (in progress) and BCA
+- **About** — a short bio
+- **Contact** — email, GitHub, and LinkedIn links
 
 ## Tech Stack
 - HTML
-- CSS
-- JavaScript
+- CSS (custom animations, no framework)
+- Vanilla JavaScript (scroll-reveal animations)
 
 ## How to Run Locally
-1. Clone the repository:
-   ```
-   git clone https://github.com/rupali140/expense-tracker.git
-   ```
-2. Open the `index.html` file in your browser — no build step or server required.
+Just open `index.html` in any browser — no build step or server required.
 
-## What I Learned
-- Structuring a small front-end project with clean separation between HTML, CSS, and JavaScript
-- Handling dynamic UI updates with JavaScript (adding/removing expense entries without reloading the page)
-- Thinking through basic UX for a data-entry tool — making it fast and simple to log an expense
-
-## Future Improvements
-- Add charts to visualize spending by category
-- Add local storage so expenses persist after refreshing
-- Add monthly/weekly filtering
+## Live Site
+Add your deployed link here once hosted (e.g. via GitHub Pages).
 
 ## Author
 **Rupali Jat**
+- Email: jatrupali4@gmail.com
 - GitHub: [@rupali140](https://github.com/rupali140)
 - LinkedIn: [rupali-jat](https://www.linkedin.com/in/rupali-jat-846b0b247)
